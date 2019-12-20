@@ -1,2 +1,0 @@
-# Plotly
-Plotly demonstration
